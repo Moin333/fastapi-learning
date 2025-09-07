@@ -1,0 +1,48 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+env/
+venv/
+myenv/
+ENV/
+*.env
+
+# Dependency folders
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# IDE / editor files
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Testing / coverage
+.coverage
+.pytest_cache/
+htmlcov/
+
+# Database (if SQLite or local storage)
+*.sqlite3
+*.db
+
+# Node stuff (if you have frontend inside repo)
+node_modules/
+
+# Secrets
+*.env
+.env.local
+.env.development
+.env.production
